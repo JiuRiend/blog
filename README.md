@@ -1,10 +1,16 @@
 # My blog
 
-#### 语雀地址 https://www.yuque.com/dashboard/books
+以下网址是平时在网上的浏览收集的，便于学习参考。
+
+更新中...
+
+#### 语雀地址: https://www.yuque.com/dashboard/books
 
 [基础理论汇总](https://www.cxymsg.com/guide/)
 
 [基础理论](https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md)
+
+[前端基础进阶](https://www.jianshu.com/p/cd3fee40ef59)
 
 [前端知识积累](http://obkoro1.com/web_accumulate/accumulate/)
 
@@ -23,7 +29,6 @@
 
 [ECMA 兼容性查询](https://caniuse.com/)
 
-[移动端网页加速器](https://www.mipengine.org/)
 ### UI设计类
 [dribbble](https://dribbble.com/)
 
@@ -38,10 +43,9 @@
 ### 转化
 [在线转化工具大全](https://tool.lu/)
 
-[Word在线转HTML](https://wordhtml.com/)
+### 优化
 
-[HTML在线转markdown](https://tool.lu/markdown/)
-### HTML
+[移动端网页加速器](https://www.mipengine.org/)
 
 [在线压缩图片体积](https://tinypng.com/)
 
@@ -54,13 +58,11 @@
 
 [Loading 效果库](loading.io)
 
-### javascript
-
-[前端基础进阶](https://www.jianshu.com/p/cd3fee40ef59)
-
 ### HTTP
 [正反向代理的区别](https://www.jianshu.com/p/208c02c9dd1d)
-### NODE
+
+### Node
+
 [深入理解Node.js 中的进程与线程](https://juejin.im/post/5d43017be51d4561f40adcf9)
 
 [koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
@@ -78,6 +80,7 @@
 [移动端适配](https://www.cnblogs.com/dyy-dida/p/11107639.html)
 
 ### react
+
 [React 源码分析](https://react.jokcy.me/book/api/react.html)
 
 [脚手架市场](http://scaffold.ant.design/#/)
@@ -85,14 +88,17 @@
 [React Hooks 入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 
 
-### 国外视频学习网站
+### 其他视频学习网站
 [lynda](https://www.lynda.com)
 
 [pluralsight](https://www.pluralsight.com/)
-
 
 ### gitHub地址
 
 [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 
-[顾芯博 ](https://github.com/GuXinbo0922)
+
+### 思想引导
+
+[马克思主义文库](https://www.marxists.org/chinese/maozedong/index.htm)
+
