@@ -87,6 +87,7 @@
 
 [React Hooks 入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 
+[TypeScript](https://github.com/xcatliu/typescript-tutorial/blob/master/README.md)
 
 ### 其他视频学习网站
 [lynda](https://www.lynda.com)
